@@ -1,0 +1,13 @@
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\bin\Debug\HoffmanAlgorithm.exe.config
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\bin\Debug\HoffmanAlgorithm.exe
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\bin\Debug\HoffmanAlgorithm.pdb
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\MainWindow.baml
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\MainWindow.g.cs
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\App.g.cs
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm_MarkupCompile.cache
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm.g.resources
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm.Properties.Resources.resources
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm.csproj.GenerateResource.Cache
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm.exe
+c:\users\hw\documents\visual studio 2013\Projects\HoffmanAlgorithm\HoffmanAlgorithm\obj\Debug\HoffmanAlgorithm.pdb
